@@ -13,9 +13,16 @@ BrowserSync makes your tweaking and testing faster by synchronising file changes
 
 [Browsersync](https://www.browsersync.io/)
 
+### Useful links
+
 [Browsersync Demo how it works](http://damonbauer.me/browsersync/)
 
 [A Quick Introduction to BrowserSync](https://www.youtube.com/watch?v=heNWfzc7ufQ)
+
+[Gulp.js Build System](https://www.youtube.com/watch?v=LmdT2zhFmn4)
+
+[Getting Started with Browserify](https://www.youtube.com/watch?v=CTAa8IcQh1U)
+
 
 #### Installing steps first git clone and follow these steps :
 
