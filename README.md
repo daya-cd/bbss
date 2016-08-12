@@ -13,6 +13,12 @@ BrowserSync makes your tweaking and testing faster by synchronising file changes
 
 [Browsersync](https://www.browsersync.io/)
 
+#### Installing steps first git clone and follow these steps :
+
+<pre><code>$ npm install</code></pre>
+
+<pre><code>$ gulp</code></pre>
+
 ### Useful links
 
 [Browsersync Demo how it works](http://damonbauer.me/browsersync/)
@@ -22,10 +28,3 @@ BrowserSync makes your tweaking and testing faster by synchronising file changes
 [Gulp.js Build System](https://www.youtube.com/watch?v=LmdT2zhFmn4)
 
 [Getting Started with Browserify](https://www.youtube.com/watch?v=CTAa8IcQh1U)
-
-
-#### Installing steps first git clone and follow these steps :
-
-<pre><code>$ npm install</code></pre>
-
-<pre><code>$ gulp</code></pre>
