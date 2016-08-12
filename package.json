@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "test project",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.4",
+    "jquery":"*"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-less": "*",
+    "gulp-nodemon": "^2.0.7",
+    "gulp-shell": "*",
+    "gulp-watch-less": "*",
+    "gulp-sourcemaps":"*",
+    "gulp-postcss":"*",
+    "gulp-uglify" : "*",
+    "gulp-browserify" : "*",
+    "csswring":"*",
+    "browser-sync" : "*"
+  }
+}
