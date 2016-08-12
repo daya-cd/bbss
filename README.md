@@ -15,8 +15,8 @@ BrowserSync makes your tweaking and testing faster by synchronising file changes
 
 [Browsersync Demo how it works](http://damonbauer.me/browsersync/)
 
-#### Installing steps first git clone and follow these steps : ####
+#### Installing steps first git clone and follow these steps :
 
 <pre><code>$ npm install</code></pre>
 
-<pre><code>$ npm start</code></pre>
+<pre><code>$ gulp</code></pre>
