@@ -15,6 +15,8 @@ BrowserSync makes your tweaking and testing faster by synchronising file changes
 
 [Browsersync Demo how it works](http://damonbauer.me/browsersync/)
 
+[A Quick Introduction to BrowserSync](https://www.youtube.com/watch?v=heNWfzc7ufQ)
+
 #### Installing steps first git clone and follow these steps :
 
 <pre><code>$ npm install</code></pre>
